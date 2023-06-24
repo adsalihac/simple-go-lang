@@ -1,4 +1,4 @@
-module github.com/adsalihac/¸
+module github.com/adsalihac/simple-go-lang
 
 go 1.20
 
